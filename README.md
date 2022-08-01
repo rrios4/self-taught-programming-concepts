@@ -1,0 +1,2 @@
+# Purpose
+The purpose of this is to self learn concept for sofware engineering and practice them here. The content will be based from 3 books such as "Cracking the Coding Interview", "Computer Science Distilled", and "The Self-Taught Programmer".
