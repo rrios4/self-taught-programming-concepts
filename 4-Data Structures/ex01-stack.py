@@ -22,4 +22,9 @@ class Stack:
 stack = Stack()
 # pushes 1 as an item to the stack
 stack.push(1)
+# removes an item from the stack
+item = stack.pop()
+print(item)
 print(stack.is_empty())
+print(stack.peek())
+print(stack.size())
